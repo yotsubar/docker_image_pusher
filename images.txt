@@ -1,5 +1,16 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+emby/embyserver
+metatube/metatube-server
+postgres:15-alpine
+jxxghp/moviepilot
+xhongc/music_tag_web
+iyuucn/iyuuplus
+jenkins/jenkins
+homeassistant/home-assistant:stable
+b4bz/homer
+postgres
+jellyfin/jellyfin
+deluan/navidrome
+louislam/uptime-kuma
+portainer/portainer-ce
+vaultwarden/server
+redis:7.2.4-alpine
