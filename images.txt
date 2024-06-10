@@ -1,1 +1,16 @@
 redis:7.2.4-alpine
+emby/embyserver
+metatube/metatube-server
+postgres:15-alpine
+jxxghp/moviepilot
+xhongc/music_tag_web
+iyuucn/iyuuplus
+jenkins/jenkins
+homeassistant/home-assistant:stable
+b4bz/homer
+postgres
+jellyfin/jellyfin
+deluan/navidrome
+louislam/uptime-kuma
+portainer/portainer-ce
+vaultwarden/server
