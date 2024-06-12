@@ -14,3 +14,4 @@ deluan/navidrome
 louislam/uptime-kuma
 portainer/portainer-ce
 vaultwarden/server
+jenkins/jenkins
