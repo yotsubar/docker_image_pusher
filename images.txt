@@ -8,7 +8,6 @@ iyuucn/iyuuplus
 jenkins/jenkins
 homeassistant/home-assistant:stable
 b4bz/homer
-postgres
 jellyfin/jellyfin
 deluan/navidrome
 louislam/uptime-kuma
