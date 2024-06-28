@@ -1,3 +1,4 @@
+ubuntu:jammy-20220428
 redis:7.2.4-alpine
 emby/embyserver
 metatube/metatube-server
