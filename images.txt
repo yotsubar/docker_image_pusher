@@ -16,3 +16,4 @@ portainer/portainer-ce
 vaultwarden/server
 jenkins/jenkins
 xiaoyaliu/alist:hostmode
+xiaoyaliu/alist:latest
