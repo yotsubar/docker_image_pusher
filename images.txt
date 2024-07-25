@@ -15,5 +15,6 @@ louislam/uptime-kuma
 portainer/portainer-ce
 vaultwarden/server
 jenkins/jenkins
-xiaoyaliu/alist:hostmode
-xiaoyaliu/alist:latest
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
