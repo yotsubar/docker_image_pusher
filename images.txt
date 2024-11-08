@@ -1,7 +1,6 @@
 ubuntu:jammy-20220428
 redis:7.2.4-alpine
 emby/embyserver
-metatube/metatube-server
 postgres:15-alpine
 jxxghp/moviepilot
 xhongc/music_tag_web
@@ -21,3 +20,4 @@ ghcr.io/monlor/xiaoya-embyserver:latest
 ghcr.io/suwayomi/tachidesk:latest
 lscr.io/linuxserver/calibre-web:latest
 ghcr.io/open-webui/open-webui:ollama
+ghcr.io/metatube-community/metatube-server
