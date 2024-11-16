@@ -1,4 +1,4 @@
-ghcr.io/immich-app/immich-server:release-cuda
+ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release-cuda
 redis:7.2.4-alpine
 emby/embyserver
