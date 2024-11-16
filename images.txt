@@ -1,3 +1,5 @@
+ghcr.io/immich-app/immich-server:release-cuda
+ghcr.io/immich-app/immich-machine-learning:release-cuda
 redis:7.2.4-alpine
 emby/embyserver
 postgres:15-alpine
@@ -11,7 +13,6 @@ homeassistant/home-assistant:stable
 deluan/navidrome
 #louislam/uptime-kuma
 #portainer/portainer-ce
-
 #ghcr.io/monlor/xiaoya-alist:latest
 #ghcr.io/monlor/xiaoya-metadata:latest
 #ghcr.io/monlor/xiaoya-embyserver:latest
@@ -19,5 +20,3 @@ deluan/navidrome
 #lscr.io/linuxserver/calibre-web:latest
 #ghcr.io/open-webui/open-webui:ollama
 ghcr.io/metatube-community/metatube-server
-ghcr.io/immich-app/immich-machine-learning:release-cuda
-ghcr.io/immich-app/immich-server:release-cuda
