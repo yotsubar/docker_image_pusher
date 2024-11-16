@@ -7,7 +7,7 @@ xhongc/music_tag_web
 jenkins/jenkins
 homeassistant/home-assistant:stable
 #b4bz/homer
-jellyfin/jellyfin
+#jellyfin/jellyfin
 deluan/navidrome
 #louislam/uptime-kuma
 #portainer/portainer-ce
