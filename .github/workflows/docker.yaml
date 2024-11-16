@@ -151,7 +151,7 @@ jobs:
             echo "=============================================================================="
             docker rmi $image
             docker rmi $new_image
-            docker system prune -y
+            docker system prune -f
             echo "磁盘空间清理完毕"
             echo "=============================================================================="
             df -hT
