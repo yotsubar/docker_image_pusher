@@ -20,3 +20,4 @@ ghcr.io/monlor/xiaoya-embyserver:latest
 #lscr.io/linuxserver/calibre-web:latest
 #ghcr.io/open-webui/open-webui:ollama
 ghcr.io/metatube-community/metatube-server
+sonarqube:community
