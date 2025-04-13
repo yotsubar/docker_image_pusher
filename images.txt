@@ -3,7 +3,8 @@ ghcr.io/immich-app/immich-machine-learning:release-cuda
 redis:7.2.4-alpine
 emby/embyserver
 postgres:15-alpine
-jxxghp/moviepilot
+#jxxghp/moviepilot
+jxxghp/moviepilot-v2:latest
 xhongc/music_tag_web
 #iyuucn/iyuuplus
 jenkins/jenkins
@@ -21,3 +22,5 @@ ghcr.io/monlor/xiaoya-embyserver:latest
 ghcr.io/open-webui/open-webui:ollama
 ghcr.io/metatube-community/metatube-server
 sonarqube:community
+lscr.io/linuxserver/jackett:latest
+flaresolverr/flaresolverr:latest
