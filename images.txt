@@ -7,7 +7,7 @@
 #iyuucn/iyuuplus
 #sonarqube:community
 #jenkins/jenkins
-homeassistant/home-assistant:stable
+#homeassistant/home-assistant:stable
 #b4bz/homer
 #jellyfin/jellyfin
 #deluan/navidrome
